@@ -16,11 +16,10 @@ I conducted the following experiments for the data:
 * Linear model, GLM, SVM
 * Normal distribution
 
-
-**Technologies used:**
-* Pandas: A versatile data manipulation library that facilitated seamless handling and exploration of my dataset.
-* IPython: Leveraging functionalities from IPython enhanced the presentation of my results and streamlined the development process.
-* Matplotlib and Seaborn: These visualization libraries empowered me to create visually appealing and informative plots, bringing my data to life.
-* Scipy: The scientific computing library played a crucial role in conducting statistical analyses, providing valuable insights into the underlying patterns.
-* Scikit-learn: This machine learning library was instrumental in implementing and evaluating various models, contributing to the predictive aspects of my project.
-* NumPy: As a fundamental numerical computing library, NumPy facilitated efficient numerical operations and array manipulations.
+## Technologies used
+* **Pandas:** A versatile data manipulation library that facilitated seamless handling and exploration of my dataset.
+* **IPython:** Leveraging functionalities from IPython enhanced the presentation of my results and streamlined the development process.
+* **Matplotlib and Seaborn:** These visualization libraries empowered me to create visually appealing and informative plots, bringing my data to life.
+* **Scipy:** The scientific computing library played a crucial role in conducting statistical analyses, providing valuable insights into the underlying patterns.
+* **Scikit-learn:** This machine learning library was instrumental in implementing and evaluating various models, contributing to the predictive aspects of my project.
+* **NumPy:** As a fundamental numerical computing library, NumPy facilitated efficient numerical operations and array manipulations.
