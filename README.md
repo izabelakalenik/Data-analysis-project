@@ -11,9 +11,10 @@ For my research, I needed information about the favorite music genre of the part
 the number of hours of music listened to per day, and the level of intensity of anxiety, depression, and insomnia.
 
 I conducted the following experiments for the data:
-* Linear regression,
-* Linear model, GLM, SVM,
+* Linear regression
+* Linear model, GLM, SVM
 * Normal distribution
+
 
 **Technologies used:**
 * Pandas: A versatile data manipulation library that facilitated seamless handling and exploration of my dataset.
