@@ -1,3 +1,4 @@
+# Data analysis project
 Final project for System Analysis and Decision Support Methods course - 4th semester.
 
 The project involves analyzing a publicly available dataset - Music and Mental Health Analysis - downloaded from kaggle.com. 
