@@ -16,7 +16,7 @@ I conducted the following experiments for the data:
 * Linear model, GLM, SVM
 * Normal distribution
 
-## Technologies used
+## Technologies
 * **Pandas:** A versatile data manipulation library that facilitated seamless handling and exploration of my dataset.
 * **IPython:** Leveraging functionalities from IPython enhanced the presentation of my results and streamlined the development process.
 * **Matplotlib and Seaborn:** These visualization libraries empowered me to create visually appealing and informative plots, bringing my data to life.
